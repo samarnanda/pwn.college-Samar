@@ -5,8 +5,11 @@ This challenge asks you to invoke the "pwn" program by providing its absolute pa
 
 The "/" is used to invoke the file system. To invoke the "pwn" program, we type "/pwn" into the command line and obtain the flag.
 >hacker@paths~the-root:~$ /pwn
+
 >BOOM!!!
+
 >Here is your flag:
+
 >pwn.college{g7A-ZinbI0reCFyz0QM2epda7qf.QX4cTO0wyN5EzNzEzW}
 
 # What I learned
