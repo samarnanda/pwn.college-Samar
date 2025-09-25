@@ -7,8 +7,11 @@ Once we find the "run" program, we obtain the flag.
 We type the absolute path to the run program into the command line. The path to the "challenge" directory which is in the "/" directory is "/challenge".Thus, the absolute path to the "run" program which is in the challenge directory is "/challenge/run".
 
 >hacker@paths~program-and-absolute-paths:~$ /challenge/run
+
 Correct!!!
+
 /challenge/run is an absolute path! Here is your flag:
+
 pwn.college{M2wnRVaeBdiiCgLti4JHjUir28-.QX1QTN0wyN5EzNzEzW}
 
 # What I learned
