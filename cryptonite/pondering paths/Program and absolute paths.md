@@ -8,11 +8,11 @@ We type the absolute path to the run program into the command line. The path to 
 
 >hacker@paths~program-and-absolute-paths:~$ /challenge/run
 
-Correct!!!
+>Correct!!!
 
-/challenge/run is an absolute path! Here is your flag:
+>/challenge/run is an absolute path! Here is your flag:
 
-pwn.college{M2wnRVaeBdiiCgLti4JHjUir28-.QX1QTN0wyN5EzNzEzW}
+>pwn.college{M2wnRVaeBdiiCgLti4JHjUir28-.QX1QTN0wyN5EzNzEzW}
 
 # What I learned
 I learned that, in order to find a program or directory which lives inside another directory, we use "/" to access it from the directory in which the respective program or directory lives.
