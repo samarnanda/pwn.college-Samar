@@ -30,5 +30,9 @@ We then navigate to the program by executing the command "/challenge/run" to obt
 >pwn.college{EEvZwljpFJ3NzTsB0buk2LaJcNT.QX3QTN0wyN5EzNzEzW}
 
 # What I Learned
+I learned that we cannot find a program without first being inside the directory in which the program is in. We use the "cd" command to change directories. The "~" shows the current path where our shell is located at.
+
+# References
+None.
 
 
