@@ -11,6 +11,6 @@ The full command would be: cat /flag. The flag file is in the "/" directory.
 >pwn.college{cmD4s3c53EpnLmyv_ZOYpWQhlog.QX5ETO0wyN5EzNzEzW}
 
 # What I learned
-I learned that we provide the absolute path of a file as the argument in the cat command s well, apart from just the file name.
+I learned that we provide the absolute path of a file as the argument in the cat command as well, apart from just the file name.
 # Reference 
 None.
