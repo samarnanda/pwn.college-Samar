@@ -11,4 +11,6 @@ The directory in which "flag" is: /usr/share/aclocal/flag. So our full command w
 >pwn.college{M0zy739FupS6dYTiCQzqm0jP0er.QXwITO0wyN5EzNzEzW}
 
 # What I learned
-I learned that 
+I learned that we provide the absolute path of a file as the argument in the cat command as well, apart from just the file name.
+# Refernces
+None.
