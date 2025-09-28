@@ -1,3 +1,19 @@
 # learning complex usage
 This challenge asks us to use complex commands and documentation to find the flag.
 # My solve
+**Flag**-pwn.college{QtaqsR6LB9cWjVxtAMzbuOBKxNO.QX1ITO0wyN5EzNzEzW}
+
+>hacker@man~learning-complex-usage:~$ /challenge/challenge --printfile /challenge/flag
+
+>Correct argument! Here is the /challenge/flag file:
+
+>cat: /challenge/flag: No such file or directory
+
+>hacker@man~learning-complex-usage:~$ /challenge/challenge --printfile /flag
+
+>Correct argument! Here is the /flag file:
+
+>pwn.college{QtaqsR6LB9cWjVxtAMzbuOBKxNO.QX1ITO0wyN5EzNzEzW}
+
+# What I learned
+I learned that arguments themselves can have arguments.
