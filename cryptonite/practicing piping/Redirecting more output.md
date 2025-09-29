@@ -35,7 +35,7 @@ hacker@piping~redirecting-more-output:~$ cat myflag
 [FLAG] pwn.college{IvWX6JdHOu5WW8kGp1Oie-DtnIa.QX1YTN0wyN5EzNzEzW}
 
 # What I learned
-
+I learned that we can redirect the output of a command into another file using ">".
 
 # Reference 
 None.
