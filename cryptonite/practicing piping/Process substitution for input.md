@@ -4,7 +4,9 @@ This challenge asks us to diff two sets of command outputs: /challenge/print_dec
 **Flag**-pwn.college{ooAfjfoknuKHAYI1z7Z2Ua7Ls-9.0lNwMDOxwyN5EzNzEzW}
 
 >hacker@piping~process-substitution-for-input:~$ diff <(/challenge/print_decoys) <(/challenge/print_decoys_and_flag)
+
 >39a40
+
 > > pwn.college{ooAfjfoknuKHAYI1z7Z2Ua7Ls-9.0lNwMDOxwyN5EzNzEzW}
 
 # What I learned
