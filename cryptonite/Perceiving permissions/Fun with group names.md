@@ -14,3 +14,7 @@ This challenge asks us to figure out the group ourselves using the "id" command 
 >pwn.college{w9YZtGshclocUyXLOvK05aGxH0q.QXycjM1wyN5EzNzEzW}
 
 # What I learned
+Files have both an owning user and group. A group can have multiple users in it, and a user can be a member of multiple groups. The most common use-case for groups is to control access to different system resources. Group ownership can be changed with the chgrp (change group) command.
+
+# Reference
+None.
