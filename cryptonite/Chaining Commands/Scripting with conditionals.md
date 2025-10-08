@@ -3,8 +3,6 @@ This challenge asks us to take an argument and according to the condition we hav
 # My solve
 **Flag**-pwn.college{kHz1TJlFJYZ72JwseFQUX_1r9Ik.0lNzMDOxwyN5EzNzEzW}
 
->hacker@chaining~scripting-with-conditionals:~$ bash /home/hacker/solve.sh pwn
-
 >hacker@chaining~scripting-with-conditionals:~$ echo '#!/bin/bash' > /home/hacker/solve.sh
 
 >hacker@chaining~scripting-with-conditionals:~$ echo 'if [ "$1" == "pwn" ]' >> /home/hacker/solve.sh
