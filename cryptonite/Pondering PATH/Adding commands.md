@@ -7,19 +7,7 @@ This challenge asks us to create an executable shell script named win in a new d
 
 >/run/dojo/bin/cat
 
->hacker@path~adding-commands:~$ mkdir ~/scripts
-
->mkdir: cannot create directory ‘/home/hacker/scripts’: File exists
-
->hacker@path~adding-commands:~$ which cat
-
->/run/dojo/bin/cat
-
 >hacker@path~adding-commands:~$ mkdir ~/myscripts
-
->hacker@path~adding-commands:~$ cd ~/my
-
->myflag     myscripts/
 
 >hacker@path~adding-commands:~$ cd ~/myscripts
 
